@@ -1,4 +1,4 @@
-# .ROFF (manmage) macro cheet sheet.
+# .ROFF (unix man page) macro cheet sheet.
 
 ## Here are the macros formatting text:
 
