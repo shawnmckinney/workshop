@@ -27,4 +27,4 @@
 | .TH    | Title heading. Used once at the beginning of the man page.           |
 | .TP    | Begin a hanging tag. Begins text on next line, not same line as tag. |
 
-[Source:](http://etutorials.org/Linux+systems/red+hat+linux+bible+fedora+enterprise+edition/Part+II+Using+Red+Hat+Linux/Chapter+6+Publishing+with+Red+Hat+Linux/Creating+Documents+in+Groff+or+LaTeX/)
+[Source: etutorials.org](http://etutorials.org/Linux+systems/red+hat+linux+bible+fedora+enterprise+edition/Part+II+Using+Red+Hat+Linux/Chapter+6+Publishing+with+Red+Hat+Linux/Creating+Documents+in+Groff+or+LaTeX/)
